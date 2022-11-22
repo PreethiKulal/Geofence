@@ -1,4 +1,3 @@
 # Geofence
-Fetching the locations feom database
-Displaying 20+ geofences in Google MAP
+Fetching the locations from the firebase database & displaying 20+ geofences in Google MAP
 
